@@ -29,7 +29,7 @@ Now navigate to platform/system/core/ directory
 
 type git clone https://github.com/NaveenStark/vivo_fastboot.git fastboot
 
-Now the vivo_fastboot source will be downloaded with a custom makefile for our toolchain.
+Now the vivo_fastboot source will be downloaded in fastboot directory with a custom makefile for our toolchain.
 
 Now type make within fastboot directory to compile the fastboot binary.
 
