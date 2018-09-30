@@ -27,7 +27,7 @@ platform/system/core, platform/system/extras, /platform/external/libselinux, /pl
 
 Now navigate to platform/system/core/ directory 
 
-type git clone https://github.com/NaveenStark/vivo_fastboot.git fastboot
+type git clone https://github.com/Naveen3Singh/vivo_fastboot.git fastboot
 
 Now the vivo_fastboot source will be downloaded in fastboot directory with a custom makefile for our toolchain.
 
